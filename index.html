@@ -9,45 +9,65 @@
 </head>
 <body>
   <div class="container">
+    <div class="jumbotron">
     <h1>Rorschach Programming Language Suggester</h1>
     <p>Paragraph to explain test</p>
-    <form id="formOne">
-      <div class="radio">
-        <label>
-          <input type="radio" name="image1" value="2">
-          Chocolate
-        </label>
-      </div>
-      <div class="radio">
-        <label>
-          <input type="radio" name="image1" value="1">
-          Vanilla
-        </label>
-      </div>
-      <div class="radio">
-        <label>
-          <input type="radio" name="image1" value="0">
-          Other
-          </label>
-      </div>
-    </form>
-  </div>
+    </div>
+    <div>
+      <form id="formOne">
+        <div class="card">
+          <div class="card-body">
+            <div id="card-text">  
+              <img class="image" src="docs/assets/images/rorschach-blot-1.jpg" alt="Rorschach inkblot image 1"
+              <h2>What do you see in image 1?</h2>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="image1" value="2">
+                  Chocolate
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="image1" value="1">
+                  Vanilla
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="image1" value="0">
+                  Other
+                  </label>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-body">
+            <div id="card-text">  
+              <button type="submit" class="btn btn-primary submit">Show me the result!</button>
+                  <!-- Result -->
+              <div id="result">
+                <div id="HighScore">
+                  <h1>Language 1 Title</h1>
+                  <p>Language 1 reasoning</p>
+                </div>
+                <div id="MediumScore">
+                  <h1>Language 2 Title</h1>
+                  <p>Language 2 reasoning</p>
+                </div>
+                <div id="LowScore">
+                  <h1>Language 3 Title</h1>
+                  <p>Language 3 reasoning</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+      </form>
+    </div>
 
-  <button type="submit" class="btn">Show me the result!</button>
 
-  <!-- Result -->
-  <div id="HighScore">
-    <h1>Language 1 Title</h1>
-    <p>Language 1 reasoning</p>
   </div>
-  <div id="MediumScore">
-    <h1>Language 2 Title</h1>
-    <p>Language 2 reasoning</p>
-  </div>
-  <div id="LowScore">
-    <h1>Language 3 Title</h1>
-    <p>Language 3 reasoning</p>
-  </div>
-
 </body>
 </html>

@@ -1,0 +1,33 @@
+/* .questionBlock {
+  float: none;
+} */
+.card{
+  border-radius: 2em;
+  margin: 5px;
+  background-color: rgb(229, 213, 207);
+
+}
+
+.card-body{
+  border-radius: 2em;
+  background-color: rgb(229, 213, 207);
+}
+
+body{
+  background-color: rgb(228, 204, 196);
+}
+
+.image {
+  float: left;
+  width: 60%;
+  padding: 0px;
+  border: 10px solid rgb(136, 121, 116);
+  margin-right: 30px;
+  border-radius: 2em;
+  box-shadow: 0 5px 10px rgba(0,0,0,.2);
+};
+
+
+.submit {
+  clear: both;
+}
