@@ -1,19 +1,19 @@
-# _{Application Name}_
+# _Programming Language Suggester_
 
-#### By _**{List of contributors}**_
+#### By _**Derrak Richard**_
 
-#### _{Brief description of application}_
+#### _This is an independent code review project for the Epicodus May2022 cohort. The intent of the project is to demonstrate my basic knowledge of javaScript, jQuery, CSS, and HTML, in the form of a simple survey._
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
+* _Bootstrap 4.5.3_
+* _jQuery 3.5.1_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_Once setup is complete, please observe, intrepret, and select your response for each of the five images in this survey. When you have completed this task, click the "Show me the results!" button to reveal the programming language that best suits your personality_
 
 ## Setup/Installation Requirements
 
@@ -21,12 +21,18 @@ _{This is a detailed description of your application. Give as much detail as nee
 * Navigate to the top level of the directory
 * Open index.html in your browser
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+
+## Known Issues
+ Please note that these results are provided "as-is", for free, and should not be construed as providing professional or certified advice of any kind.
+
+ According to [Wikipedia](https://en.wikipedia.org/wiki/Rorschach_test), results from this test may be in dispute:
+
+>The areas of dispute include the objectivity of testers, inter-rater reliability, the verifiability and general validity of the test, bias of the test's pathology scales towards greater numbers of responses, the limited number of psychological conditions which it accurately diagnoses, the inability to replicate the test's norms, its use in court-ordered evaluations, and the proliferation of the ten inkblot images, potentially invalidating the test for those who have been exposed to them
+
+
 
 ## Known Bugs
-
-* _Any known issues_
-* _should go here_
+None at this time
 
 ## License
 
