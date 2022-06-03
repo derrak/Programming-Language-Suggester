@@ -1,5 +1,9 @@
 .jumbotron{
-  background-color: rgb(229, 213, 207);
+  border-bottom-left-radius: 2em;
+  border-bottom-right-radius: 2em;
+  background-color: rgb(55, 49, 46);
+  color:rgb(203, 181, 174);
+
 }
 
 
