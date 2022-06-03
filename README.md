@@ -23,9 +23,9 @@ _Once setup is complete, please observe, intrepret, and select your response for
 
 
 ## Known Issues
- Please note that these results are provided "as-is", for free, and should not be construed as providing professional or certified advice of any kind.
+Please note that these results are provided "as-is", for free, and should not be construed as providing professional or certified advice of any kind.
 
- According to [Wikipedia](https://en.wikipedia.org/wiki/Rorschach_test), results from this test may be in dispute:
+According to [Wikipedia](https://en.wikipedia.org/wiki/Rorschach_test), results from this test may be in dispute:
 
 >The areas of dispute include the objectivity of testers, inter-rater reliability, the verifiability and general validity of the test, bias of the test's pathology scales towards greater numbers of responses, the limited number of psychological conditions which it accurately diagnoses, the inability to replicate the test's norms, its use in court-ordered evaluations, and the proliferation of the ten inkblot images, potentially invalidating the test for those who have been exposed to them
 
